@@ -90,6 +90,7 @@ button {
   justify-content: center;
   align-items: center;
   gap: 1rem;
+  cursor: pointer;
 }
 
 @media screen and (min-width: 36rem) {
